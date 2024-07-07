@@ -36,7 +36,7 @@ Tools :-
 2. Install Mariadb package and starting enable Mariadb server.
 3. Set Database username and password.
 
-![pix12](https://user-images.githubusercontent.com/74002629/185373600-c9815226-51e1-4e1a-ac92-b17b2e3713ea.PNG)
+![eunmysql](https://github.com/Hatem-sudo/Project-7-Container-App-project-6/assets/113099054/d429c28c-b5cc-4652-a6ad-25dbeabc9895)
 
 
 
@@ -54,7 +54,7 @@ Tools :-
 2. set EPEL repository and install the depdensies.
 3. setup access to usertest and make it admin and starting firewall and open port 5672.
 
-![pix12](https://user-images.githubusercontent.com/74002629/185373600-c9815226-51e1-4e1a-ac92-b17b2e3713ea.PNG)
+![pull rabit](https://github.com/Hatem-sudo/Project-7-Container-App-project-6/assets/113099054/bd1cef81-15f4-46bb-950b-8b65ae038002)
 
 #### Step 6 - setup and install Tomcat.
 
@@ -70,7 +70,8 @@ Tools :-
 1. Download source code from gitHub or any version controll.
 2. deploy the artifact.
 
-![pix12](https://user-images.githubusercontent.com/74002629/185373600-c9815226-51e1-4e1a-ac92-b17b2e3713ea.PNG)
+![git and install maven](https://github.com/Hatem-sudo/Project-7-Container-App-project-6/assets/113099054/f69620c9-cd2c-4abc-b344-12e16d19d4b0)
+
 
 #### Step 8 - setup and install Nginx
 
@@ -78,7 +79,10 @@ Tools :-
 2. Creat Nginx configration file and update contant
 3. Delete old file and creat link to active website and resart Nginx.
 
-![pix12](https://user-images.githubusercontent.com/74002629/185373600-c9815226-51e1-4e1a-ac92-b17b2e3713ea.PNG)
+![pull niginx and tomcat](https://github.com/Hatem-sudo/Project-7-Container-App-project-6/assets/113099054/567f6217-bce8-44c2-bd99-e2c7a0bcfc5e)
 
 it's Done !!!
+
+![1](https://github.com/Hatem-sudo/Project-7-Container-App-project-6/assets/113099054/0f7d702f-f460-43d7-80af-174d3c984758)
+
 
