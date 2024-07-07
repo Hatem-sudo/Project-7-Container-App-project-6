@@ -83,6 +83,8 @@ Tools :-
 
 it's Done !!!
 
+![dockercomposeup](https://github.com/Hatem-sudo/Project-7-Container-App-project-6/assets/113099054/b43cbba8-d003-4860-aa8a-74fa57001d20)
+
 ![1](https://github.com/Hatem-sudo/Project-7-Container-App-project-6/assets/113099054/0f7d702f-f460-43d7-80af-174d3c984758)
 
 
