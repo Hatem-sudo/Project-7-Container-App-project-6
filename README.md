@@ -24,6 +24,8 @@ Tools :-
 1. install Docker.
 2. install docker compose.
 3. make 5 Containers with images.
+
+![install docker](https://github.com/Hatem-sudo/Project-7-Container-App-project-6/assets/113099054/3357f92f-549a-435c-b203-f0b4d28ff3f3)
     
 #### Step 2 - setup and install MYSQL.
 
